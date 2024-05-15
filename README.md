@@ -1,4 +1,4 @@
-# ai-case-study
+# ai-case-study THIS IS A TEST
 A case study on the music generating AI Moises.ai 
 
 ## Overview and Origin
