@@ -1,23 +1,27 @@
-# ai-case-study THIS IS A TEST
-A case study on the music generating AI Moises.ai 
+# ai-case-study 
+A case study on the audio processing AI Moises.ai 
 
 ## Overview and Origin
 
 * Name of company: 
-    Music AI
+    **Music AI**
 
 * When was the company incorporated?
     Founded in 2019
 * Who are the founders of the company?
-    ![Co-founder and Chief Executive Officer](geraldoCOFOUNDER1.webp) Geraldo Ramos
+    ![Co-founder and Chief Executive Officer](geraldoCOFOUNDER1.webp) 
+    Geraldo Ramos
     ![Co-founder and Chief Operating Officer](eddieCOFOUNDER2.webp)
+    
     Eddie Hsu
     ![Co-founder and Chief Design Officer](jardsonCOFOUNDER3.webp)
+    
     Jardson Almeida
 * How did the idea for the company (or project) come about?
     Music is a creative expression, and audio data. Data that could significantly benefit from the incorporation of AI processing, and it's tools. The founders our pioneering  this frontier, engineering AI that understands, compliments, and enhances musical creation for artists, or audio production for anyone.  
 * How is the company funded? How much funding have they received?
     Music.AI is backed by institutional technology investors from the US and Brazil. Specifically, KICKSTART, monashees, NORWEST, Goodwater, TobaCapital, and VALUTA
+    ---
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
@@ -37,24 +41,21 @@ Music.AI is dually an AI powered music, and Audio platform, which makes them pio
 Music production and Audio processing.
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-The major trends, and innovations in the musical production world would be the developement of high-quality producer softwares at an affordable price, such as Abelton, FruityLoops, and even Garage Band. Music.AI is the next step in increasing access and capabilites to all musical artists, or audio engineers. 
+The major trends, and innovations in the musical production world would be the developement of high-quality producer softwares at an affordable price, such as Abelton, FruityLoops, and even Garage Band. Music.AI takes the torch from these softwares, by introducing a new era of musical production software enhance with AI technology. 
 
 * What are the other major companies in this field?
+There are no other major players in audio seperation for audio tracks. *Music.ai* is the first of it's kind, with its flagship app *Moises.ai*. A few runnerups have come copying the technology, but no honorable mentions are worth sharing since Music.ai is so dominant in it's user base. 
+---
 
 ## Results
 
 * What has been the business impact of this company so far?
+The company has created a tool that is as essential to a musician as their instrument would be. Speaking to local musicians I have discovered that their jobs are so much easier with the moises.ai app, and its capabilites in creating multi-instrumental tracking, click-tracking, and etc. at the touch of a finger. The industry is forever changed because it now allows producers and musicians to be more creative without having to do any tedious finessing of audio tracks. 
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+The metrics would be the number, and type of users, utilizing the moises app. This group is 40 million stronc, which include superstars, and professional musicians, like Eloy Casagrande, new drummer of Slipknot, or Rom Gov, pro drummer of many olocal Austin and national bands. Another metric is the depth
 
-* How is your company performing relative to competitors in the same field?
-
+---
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+I'd reccomend music.ai get into the AI music generative buisness. Also, they should create an AI agent or assistant that could help users of the moises.ai app navigate and produce songs. Lots of companies utilizing AI for music are on the generative side, whether it's lyrics, or beats. I think music.ai wouldn't have a hard time creating a module that suggests or recommends audio files to the producer/musician as they play live of record. The company processes over a million audio files a day, allowing their AI to process so many different creative ideas.  could increase user base to more amateurish music producers and musicians. This would initiate a new generation of music. 
