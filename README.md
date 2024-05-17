@@ -1,5 +1,5 @@
 # ai-case-study 
-A case study on the audio processing AI Moises.ai 
+A case study on the audio processing company Music.AI and it's propietary app Moises.AI 
 
 ## Overview and Origin
 
@@ -8,7 +8,7 @@ A case study on the audio processing AI Moises.ai
 
 ### Year Incorporated:
 **2019**
-### Founders
+### Founders:
   ![Co-founder and Chief Executive Officer](geraldoCOFOUNDER1.webp) 
     **Geraldo Ramos, Chief Exectuive Office**
   ![Co-founder and Chief Operating Officer](eddieCOFOUNDER2.webp)
@@ -56,5 +56,7 @@ The metrics would be the number, and type of users, utilizing the moises app. Th
 I'd reccomend music.ai get into the AI music generative buisness. Lots of companies utilizing AI for music are on the generative side, whether it's lyrics, or beats. I think music.ai could be more comprehensive app by creating a module that suggests or recommends audio files to the producer/musician as they produce live music or record. Music.AI could also create an AI agent or assistant that could help users of the moises.ai (their propietary app) to navigate its interface more effectively.   This could increase their user base to more amateurish music producers and musicians. This would put powerful creative tools in the hands of those who previously thought these capabilites were unimaginable. 
 
 ### Sources
-[Musi.AI Blog] (https://music.ai/blog/news/indiescussion-webinar/?utm_source=direct&click_section=section_1_blog_list_10)
-[Music.AI Research] (https://music.ai/research/?utm_source=direct&click_section=header_research)
+[Musi.AI Blog](https://music.ai/blog/news/indiescussion-webinar/?utm_source=direct&click_section=section_1_blog_list_10)
+[Music.AI Research](https://music.ai/research/?utm_source=direct&click_section=header_research)
+[Moises.AI](https://moises.ai/)
+[Music.AI](https://music.ai/)
