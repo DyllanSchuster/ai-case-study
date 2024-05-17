@@ -3,12 +3,12 @@ A case study on the audio processing AI Moises.ai
 
 ## Overview and Origin
 
-* Name of company: 
+####Name of company: 
     **Music AI**
 
-* When was the company incorporated?
-    Founded in 2019
-* Who are the founders of the company?
+###Year Incoporated
+    **2019**
+###Founders
   ![Co-founder and Chief Executive Officer](geraldoCOFOUNDER1.webp) 
     Geraldo Ramos
   ![Co-founder and Chief Operating Officer](eddieCOFOUNDER2.webp)
@@ -16,7 +16,7 @@ A case study on the audio processing AI Moises.ai
   ![Co-founder and Chief Design Officer](jardsonCOFOUNDER3.webp)
      Jardson Almeida
 * How did the idea for the company (or project) come about?
-    Music is a creative expression, and audio data. Data that could significantly benefit from the incorporation of AI processing, and it's tools. The founders our pioneering  this frontier, engineering AI that understands, compliments, and enhances musical creation for artists, or audio production for anyone.  
+  The founders our pioneers in this musical frontier, engineering AI that understands, compliments, and enhances musical creation for artists, or audio production for anyone.  
 * How is the company funded? How much funding have they received?
     Music.AI is backed by institutional technology investors from the US and Brazil. Specifically, KICKSTART, monashees, NORWEST, Goodwater, TobaCapital, and VALUTA
     ---
