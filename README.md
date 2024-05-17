@@ -3,12 +3,12 @@ A case study on the audio processing AI Moises.ai
 
 ## Overview and Origin
 
-####Name of company: 
+### Name of company: 
     **Music AI**
 
-###Year Incoporated
+### Year Incoporated
     **2019**
-###Founders
+### Founders
   ![Co-founder and Chief Executive Officer](geraldoCOFOUNDER1.webp) 
     Geraldo Ramos
   ![Co-founder and Chief Operating Officer](eddieCOFOUNDER2.webp)
