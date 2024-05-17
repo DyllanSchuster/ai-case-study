@@ -9,11 +9,11 @@ A case study on the audio processing AI Moises.ai
 * When was the company incorporated?
     Founded in 2019
 * Who are the founders of the company?
-    ![Co-founder and Chief Executive Officer](geraldoCOFOUNDER1.webp) 
+  ![Co-founder and Chief Executive Officer](geraldoCOFOUNDER1.webp) 
     Geraldo Ramos
-    ![Co-founder and Chief Operating Officer](eddieCOFOUNDER2.webp)
+  ![Co-founder and Chief Operating Officer](eddieCOFOUNDER2.webp)
      Eddie Hsu
-    ![Co-founder and Chief Design Officer](jardsonCOFOUNDER3.webp)
+  ![Co-founder and Chief Design Officer](jardsonCOFOUNDER3.webp)
      Jardson Almeida
 * How did the idea for the company (or project) come about?
     Music is a creative expression, and audio data. Data that could significantly benefit from the incorporation of AI processing, and it's tools. The founders our pioneering  this frontier, engineering AI that understands, compliments, and enhances musical creation for artists, or audio production for anyone.  
